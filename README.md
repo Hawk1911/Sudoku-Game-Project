@@ -29,7 +29,7 @@ Fast Mode is designed for quicker gameplay and experienced players.
 - Hearts indicate remaining lives (mistakes are limited)
 - Timer tracks playtime
 - Score increases based on correct actions and progress
-<img width="1106" height="986" alt="image" src="https://github.com/user-attachments/assets/65842187-d136-4a26-9265-60245e326e1a" />
+
 
 
 ## Status
