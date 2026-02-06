@@ -34,3 +34,6 @@ Fast Mode is designed for quicker gameplay and experienced players.
 
 ## Status
 🚧 Work in progress
+
+## Website
+https://gdaeldar.com
