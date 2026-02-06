@@ -1,3 +1,11 @@
+# Sudoku Game Project
+
+Sudoku game written in Python.
+This repository contains the current development version of the project.
+
+---
+
+
 ## 🧩 Gameplay & Controls
 
 The game is played by selecting a cell on the Sudoku grid and choosing a number from the number panel below.
