@@ -18,3 +18,4 @@ Fast Mode is designed for quicker gameplay and experienced players.
 ·	Score increases based on correct actions and progress
 
 
+
